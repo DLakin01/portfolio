@@ -2,8 +2,11 @@
 layout: post
 title: BlocJams
 feature-img: "img/sample_feature_img.png"
-thumbnail-path: "https://d13yacurqjgara.cloudfront.net/users/3217/screenshots/2030966/blocjams_1x.png"
-short-description: BlocJams for iOS is awesome!
+thumbnail-path: "img/BlocJams-logo.jpeg"
+short-description: With Bloc Jams, the fun never ends!
 
 ---
-This is an example of a post which includes a feature image specified in the front matter of the post. The feature image spans the full-width of the page, and is shown with the title on permalink pages.
+
+Bloc Jams is a compact, light-weight music player that allows users to bring their favorite tunes into every aspect of their life! Powered by new sharing and streaming technologies, the app lets music fans customize their aural experience every day.
+
+When today's listeners want to fire up the tunes, they don't want to worry about having enough space on their phone, running out of data, or being stuck with slow WiFi. One year ago, the Bloc Jams team approached me with a proposal for a new kind of music player, one that could give users whatever artist, song, or playlist they needed without having to worry about any of that. 
